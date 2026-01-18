@@ -1,0 +1,15 @@
+{
+  "name": "pkas-personal",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build:posts": "python3 scripts/build_posts.py",
+    "build:quotes": "python3 scripts/build_quotes.py",
+    "build:data": "npm run build:posts && npm run build:quotes",
+    "build:frontend": "cd frontend && npm run build",
+    "build": "npm run build:data && npm run build:frontend",
+    "dev": "cd frontend && npm run dev",
+    "preview": "cd frontend && npm run preview"
+  }
+}
+

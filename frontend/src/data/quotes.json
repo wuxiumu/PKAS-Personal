@@ -1,0 +1,492 @@
+[
+  {
+    "id": "quote_20260118_092917",
+    "content": "智慧不是知道所有答案，而是知道如何提出正确的问题。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "思考",
+      "成长",
+      "智慧"
+    ],
+    "slug": "智慧不是知道所有答案而是知道如何提出正",
+    "author": "未知",
+    "category": "思考",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092926",
+    "content": "真正的智慧在于知道自己不知道什么。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "哲学",
+      "智慧",
+      "谦逊"
+    ],
+    "slug": "真正的智慧在于知道自己不知道什么",
+    "author": "苏格拉底",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092937",
+    "content": "真正的成功不是站在顶峰，而是帮助他人也登上顶峰。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "人生",
+      "帮助",
+      "成功"
+    ],
+    "slug": "真正的成功不是站在顶峰而是帮助他人也登",
+    "category": "人生",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092925",
+    "content": "最强大的敌人往往是自己内心的恐惧。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "恐惧",
+      "成长",
+      "自我"
+    ],
+    "slug": "最强大的敌人往往是自己内心的恐惧",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092939",
+    "content": "真正的力量不是控制他人，而是控制自己。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "力量",
+      "控制",
+      "自我"
+    ],
+    "slug": "真正的力量不是控制他人而是控制自己",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092923",
+    "content": "知识改变命运，智慧改变人生。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "成长",
+      "智慧",
+      "知识"
+    ],
+    "slug": "知识改变命运智慧改变人生",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092943",
+    "content": "最深的智慧藏在最简单的话语里，最大的力量来自最平静的内心。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "力量",
+      "智慧",
+      "简单"
+    ],
+    "slug": "最深的智慧藏在最简单的话语里最大的力量",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092933",
+    "content": "失败是成功之母，但只有从失败中学习，它才是你的母亲。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "失败",
+      "学习",
+      "成长"
+    ],
+    "slug": "失败是成功之母但只有从失败中学习它才",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092934",
+    "content": "最强大的武器是思想，最危险的敌人是偏见。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "偏见",
+      "思想",
+      "智慧"
+    ],
+    "slug": "最强大的武器是思想最危险的敌人是偏见",
+    "category": "智慧",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092930",
+    "content": "过去无法改变，未来无法预测，只有现在可以把握。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "人生",
+      "当下",
+      "时间"
+    ],
+    "slug": "过去无法改变未来无法预测只有现在可以",
+    "category": "人生",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092938",
+    "content": "最深的智慧往往来自最痛苦的经历。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "成长",
+      "智慧",
+      "经历"
+    ],
+    "slug": "最深的智慧往往来自最痛苦的经历",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092927",
+    "content": "不是所有的努力都会成功，但所有成功都需要努力。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "努力",
+      "坚持",
+      "成功"
+    ],
+    "slug": "不是所有的努力都会成功但所有成功都需要",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092920",
+    "content": "真正的勇气不是不害怕，而是害怕却依然前行。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "人生",
+      "勇气",
+      "坚持"
+    ],
+    "slug": "真正的勇气不是不害怕而是害怕却依然前行",
+    "category": "人生",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092942",
+    "content": "改变思维，改变命运；改变习惯，改变人生。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "习惯",
+      "思维",
+      "改变"
+    ],
+    "slug": "改变思维改变命运-改变习惯改变人生",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092936",
+    "content": "人生最大的敌人不是别人，而是自己的惰性和恐惧。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "人生",
+      "成长",
+      "自我"
+    ],
+    "slug": "人生最大的敌人不是别人而是自己的惰性和",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092918",
+    "content": "最深的智慧往往藏在最简单的道理里。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "哲学",
+      "智慧",
+      "简单"
+    ],
+    "slug": "最深的智慧往往藏在最简单的道理里",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092941",
+    "content": "真正的智慧是知道自己的无知，真正的力量是承认自己的脆弱。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "力量",
+      "智慧",
+      "谦逊"
+    ],
+    "slug": "真正的智慧是知道自己的无知真正的力量是",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092924",
+    "content": "成功不是终点，失败也不是末日，继续前进的勇气才是最重要的。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "勇气",
+      "失败",
+      "成功"
+    ],
+    "slug": "成功不是终点失败也不是末日继续前进的",
+    "category": "人生",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092922",
+    "content": "真正的自由不是想做什么就做什么，而是不想做什么就不做什么。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "人生",
+      "哲学",
+      "自由"
+    ],
+    "slug": "真正的自由不是想做什么就做什么而是不想",
+    "author": "康德",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092921",
+    "content": "时间是最公平的，给每个人都是24小时；时间也是最不公平的，给每个人的价值都不同。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "价值",
+      "思考",
+      "时间"
+    ],
+    "slug": "时间是最公平的给每个人都是24小时-时",
+    "category": "思考",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092940",
+    "content": "最强大的力量是坚持，最珍贵的品质是耐心。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "力量",
+      "坚持",
+      "耐心"
+    ],
+    "slug": "最强大的力量是坚持最珍贵的品质是耐心",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092919",
+    "content": "当你停止成长，你就开始衰老。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "人生",
+      "成长",
+      "自我"
+    ],
+    "slug": "当你停止成长你就开始衰老",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092935",
+    "content": "真正的智慧不在于知道答案，而在于知道问题。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "思考",
+      "智慧",
+      "问题"
+    ],
+    "slug": "真正的智慧不在于知道答案而在于知道问题",
+    "category": "思考",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092931",
+    "content": "最深的智慧是知道何时该说，何时该沉默。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "人生",
+      "智慧",
+      "沟通"
+    ],
+    "slug": "最深的智慧是知道何时该说何时该沉默",
+    "category": "智慧",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092916",
+    "content": "真正的力量不在于征服他人，而在于征服自己。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "力量",
+      "哲学",
+      "自我"
+    ],
+    "slug": "真正的力量不在于征服他人而在于征服自己",
+    "author": "老子",
+    "source": "道德经",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092932",
+    "content": "真正的力量来自内心的平静，而不是外在的喧嚣。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "内心",
+      "力量",
+      "平静"
+    ],
+    "slug": "真正的力量来自内心的平静而不是外在的喧",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092945",
+    "content": "最强大的力量是内心的平静，最深的智慧是知道何时该行动。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "力量",
+      "智慧",
+      "行动"
+    ],
+    "slug": "最强大的力量是内心的平静最深的智慧是知",
+    "category": "智慧",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092929",
+    "content": "真正的富有不是拥有多少，而是需要多少。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "哲学",
+      "富有",
+      "简单"
+    ],
+    "slug": "真正的富有不是拥有多少而是需要多少",
+    "category": "哲学",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092944",
+    "content": "真正的成长不是变得完美，而是接受不完美。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "完美",
+      "成长",
+      "接受"
+    ],
+    "slug": "真正的成长不是变得完美而是接受不完美",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_092928",
+    "content": "改变世界从改变自己开始，改变自己从改变思维开始。",
+    "created_at": "2026-01-18 09:29:16",
+    "updated_at": "2026-01-18 09:29:16",
+    "status": "published",
+    "tags": [
+      "思维",
+      "成长",
+      "改变"
+    ],
+    "slug": "改变世界从改变自己开始改变自己从改变思",
+    "category": "成长",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260118_013239",
+    "content": "大道至简大道至简大道至简大道至简大道至简",
+    "created_at": "2026-01-18 01:30:05",
+    "updated_at": "2026-01-18 01:40:04",
+    "status": "published",
+    "tags": [
+      "大道",
+      "大道至简"
+    ],
+    "slug": "大道至简",
+    "title": "大道至简",
+    "author": "大道人",
+    "source": "大道来源",
+    "source_url": "http://localhost:5173/quotes/new",
+    "category": "大道至简",
+    "poster_template": "default"
+  },
+  {
+    "id": "quote_20260117_120000",
+    "content": "思考的质量决定了行动的质量。",
+    "created_at": "2026-01-17 12:00:00",
+    "updated_at": "2026-01-17 12:00:00",
+    "status": "published",
+    "tags": [
+      "哲学",
+      "思考"
+    ],
+    "slug": "quote-example",
+    "title": "关于思考",
+    "author": "未知",
+    "source": "思考的艺术",
+    "category": "思考",
+    "poster_template": "default"
+  }
+]

@@ -1,0 +1,100 @@
+{
+  "book": {
+    "tone_rules": [
+      "深度思考，结合个人实践",
+      "结构清晰，逻辑严密",
+      "语言简洁有力，避免空话套话"
+    ],
+    "must_link": []
+  },
+  "ai": {
+    "tone_rules": [
+      "技术准确，逻辑清晰",
+      "避免过度营销",
+      "客观分析技术趋势"
+    ],
+    "must_link": []
+  },
+  "finance": {
+    "tone_rules": [
+      "客观理性，避免情绪化",
+      "数据支撑，逻辑清晰",
+      "风险提示明确"
+    ],
+    "must_link": []
+  },
+  "ent": {
+    "tone_rules": [
+      "客观报道，避免主观臆断",
+      "尊重事实，避免过度解读"
+    ],
+    "must_link": []
+  },
+  "today": {
+    "tone_rules": [
+      "客观理性",
+      "多角度分析",
+      "避免情绪化表达"
+    ],
+    "must_link": []
+  },
+  "entertainment": {
+    "tone_rules": [
+      "客观报道",
+      "避免过度解读"
+    ],
+    "must_link": []
+  },
+  "influencer": {
+    "tone_rules": [
+      "客观分析",
+      "避免主观臆断"
+    ],
+    "must_link": []
+  },
+  "campus": {
+    "tone_rules": [
+      "客观理性",
+      "尊重事实"
+    ],
+    "must_link": []
+  },
+  "sports": {
+    "tone_rules": [
+      "客观报道",
+      "尊重体育精神"
+    ],
+    "must_link": []
+  },
+  "hot": {
+    "tone_rules": [
+      "客观理性",
+      "多角度分析"
+    ],
+    "must_link": []
+  },
+  "global": {
+    "tone_rules": [
+      "客观理性",
+      "多角度分析",
+      "避免情绪化"
+    ],
+    "must_link": []
+  },
+  "fashion": {
+    "tone_rules": [
+      "客观分析",
+      "避免过度解读"
+    ],
+    "must_link": []
+  },
+  "tech": {
+    "tone_rules": [
+      "技术准确",
+      "逻辑清晰",
+      "客观分析"
+    ],
+    "must_link": []
+  }
+}
+

@@ -1,0 +1,5 @@
+# PKAS Python 依赖
+
+# YAML 解析（用于解析 Markdown Frontmatter）
+PyYAML>=6.0.1
+
