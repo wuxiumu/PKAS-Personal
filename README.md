@@ -1,184 +1,98 @@
-**📘 PKAS – Personal Knowledge & Asset System**
+# PKAS · 个人知识与资产系统（PKAS-Personal）
 
+> **个人可控、低成本、AI 友好** 的知识与资产管理系统：Markdown 内容源 → Python 离线聚合 → React 博客 / 后台。数据本地化、可迁移。
 
+**定制：** 微信 **qingbao199101**（备注：PKAS）｜ [wuxiumu@163.com](mailto:wuxiumu@163.com)
 
+## 事实摘要
 
+- **产品**：个人知识库 + 金句/博文构建脚本 + React（Vite）展示与管理前端。
+- **适合**：要用 Markdown 管长期笔记/金句、并做轻量博客与资产视图的个人或小团队。
+- **交付**：`scripts/` 数据构建、`frontend/` 开发与构建、快速启动文档。
+- **不做**：不是重型后端 SaaS；默认无厂商锁定；原 README 里的「GEO 地理访问」请称**地理维度分析**，与下文 GEO（生成式引擎优化）无关。
 
-> 一个 **个人可控、低成本、AI 友好** 的知识与资产管理系统
+## 能交付什么
 
-> 支持 **Blog 展示 / 后台管理 / 数据完全本地化**
+| 模块 | 说明 |
+|---|---|
+| 内容源 | Markdown 笔记 / 金句 |
+| 离线构建 | `build_posts.py` / `build_quotes.py` → JSON |
+| 前端 | React + Vite：Blog / Dashboard |
+| 扩展方向 | 服务器/域名成本视图、可视化（按需定制） |
 
-
-
-
-
-### **🎯 项目目标**
-
-
-
-
-
-PKAS 用于统一管理个人长期积累的 **知识资产 + 数字资产**，包括：
-
-
-
-- 📚 读书笔记 / 大模型思考 / Prompt 感悟
-- ✨ 金句与可传播内容
-- 🌐 服务器 / 域名 / 成本结构
-- 📊 成本控制与资产视图
-- 🌍 GEO 维度的访问与分布分析
-
-
-
-
-
-所有数据 **本地存储、结构化、可迁移**，不依赖重型后端。
-
-
-
-------
-
-
-
-
-
-### **🧱 架构设计**
-
-
-
-```
-Markdown / CSV / 本地数据
-        ↓
-Python 离线处理 & 聚合
-        ↓
-标准化 JSON 数据
-        ↓
-React 前端（Blog / Dashboard）
-```
-
-
-
-- **Python**：数据构建器（不是在线后端）
-- **React**：展示 & 管理
-- **JSON**：唯一数据交换格式
-- **Markdown**：内容源，长期可读
-
-
-
-
-
-------
-
-
-
-
-
-### **✨ 核心特性**
-
-
-
-
-
-- ✅ Markdown 驱动内容（天然适合写作与 AI 生成）
-- ✅ Blog & Admin 同一套前端
-- ✅ SEO 友好（静态可部署）
-- ✅ 数据完全可控（无厂商锁定）
-- ✅ 可平滑升级为 API / SaaS
-
-
-
-
-
-------
-
-
-
-
-
-### **🧠 为什么做这个项目**
-
-
-
-
-
-> 个人知识、AI 思考、服务器资产、域名成本
-
-> 不应该散落在 Notion、Excel、云厂商后台里。
-
-
-
-PKAS 追求的是：
-
-**结构化、长期主义、低依赖、可演进。**
-
-
-
-------
-
-
-
-
-
-### **📦 技术栈**
-
-
-
-
-
-- Frontend: React 18 + Vite
-- Content: Markdown → JSON
-- Builder: Python 3
-- Charts / GEO: ECharts / Recharts
-- Deploy: GitHub Pages / Nginx / OSS
-
-
-
-
-
-------
-
-
-
-
-
-### **🚀 Roadmap（简要）**
-
-
-
-
-
-- 项目结构设计
-- React Blog（Markdown + SEO）
-- Python 数据构建器
-- AI 自动生成内容管道
-- 成本 / 资产可视化
-
----
-
-## 🚀 快速开始
-
-### 前端项目启动（3 步）
+## 快速预览
 
 ```bash
-# 1. 进入前端目录
+# 数据构建（仓库根）
+npm run build:data
+
+# 前端
 cd frontend
-
-# 2. 安装依赖
 npm install --legacy-peer-deps
-
-# 3. 启动开发服务器
 npm run dev
+# http://localhost:5173
 ```
 
-访问：**http://localhost:5173**
+根目录也可：`npm run dev`（进入 frontend 启动）。
 
-> 📖 **详细启动和打包流程**：查看 [QUICKSTART.md](./QUICKSTART.md)
+## 定制合作（可报价）
+
+- 博客皮肤 / 白标  
+- 金句海报与传播页  
+- 资产与成本看板  
+- 静态部署（Pages / OSS）与 CI  
+
+## SEO 字段预留（产品页 HTML 统一生成时用）
+
+| 字段 | 用途 |
+|---|---|
+| `seo_title` | `<title>` / OG title |
+| `seo_description` | meta description |
+| `canonical_url` | 规范 URL |
+| `og_image` | 分享图 |
+| `robots` | 如 `index,follow` |
+| `json_ld_type` | SoftwareApplication / WebPage / FAQPage |
+| `hreflang` | zh-CN / en |
+| `site_name` | 白标品牌名 |
+
+> **GEO ≠ 地理定位。** GEO = Generative Engine Optimization（生成式引擎优化）。  
+> 若需要访问来源的**地理维度**分析，请在定制需求里单独写「地理热力 / 分布」，不要写成 GEO。
+
+## GEO（生成式引擎优化）
+
+### 关键词（中英）
+
+- 中文：个人知识管理系统, Markdown知识库, 金句博客, 本地优先PKM, 个人资产视图
+- English: personal knowledge system, Markdown PKM, quote blog, local-first knowledge, personal asset dashboard
+
+### FAQ
+
+**Q：需要在线数据库吗？**  
+A：默认不需要。Python 离线生成 JSON，前端读静态数据。
+
+**Q：和印象笔记有何不同？**  
+A：源码与数据在你手里；Markdown 长期可读；可平滑加 API，但不绑云厂商。
+
+**Q：如何定制？**  
+A：微信 `qingbao199101`，备注「PKAS」。
+
+## 定制合作
+
+白标博客、金句产线、资产看板与部署。加微信备注项目名。
 
 ---
 
-## 📚 项目文档
+## 联系方式
 
-- [快速启动指南](./QUICKSTART.md) - 项目启动和打包流程
-- [开发计划](./todo.md) - 详细开发计划和进度
-- [项目设计文档](./doc/README.md) - 架构和设计文档
-- [前端文档](./frontend/README.md) - 前端项目说明
+定制、演示或合作：
+
+- 邮箱：[wuxiumu@163.com](mailto:wuxiumu@163.com)
+- 微信：**qingbao199101**（添加请备注来意）
+
+### 赞助支持
+
+如果内容对你有帮助，欢迎自愿赞助。
+
+| 微信赞赏码 | 支付宝收款码 |
+|---|---|
+| ![微信赞赏码](https://chiguashentan-test.oss-cn-beijing.aliyuncs.com/wxprogram/zan/20261002185236_31_227.png) | ![支付宝收款码](https://chiguashentan-test.oss-cn-beijing.aliyuncs.com/wxprogram/zan/20261002185309_32_227.jpg) |
