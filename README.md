@@ -35,6 +35,19 @@ npm run dev
 
 根目录也可：`npm run dev`（进入 frontend 启动）。
 
+## 环境变量
+
+复制 `.env.example` → `.env`。`npm run build:data` **不需要** Key；仅 `scripts/generate_*.py` 调模型时需要 `DASHSCOPE_API_KEY` / `AI_API_KEY`。
+
+## 冒烟自检
+
+```bash
+bash scripts/smoke.sh
+# 或 npm run smoke
+```
+
+
+
 ## 定制合作（可报价）
 
 - 博客皮肤 / 白标  
